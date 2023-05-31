@@ -1,0 +1,80 @@
+.nav-link{
+    cursor: pointer;
+}
+.home1{
+    background: url(background1.jpg.jpg);
+    background-size: cover;
+    height: 100vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.profile{
+    background: rgb(12, 12, 12);
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    position: absolute;
+    top: 6%;
+}
+.prof1{
+    background: skyblue;
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.information{
+    background: rgb(212, 198, 198);
+    background-size: contain;
+    height: 50vh;
+}
+.logo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.intro{
+    padding-left: 10%;
+    padding-top: 18%;
+}
+.intro h1{
+    font-size: 85px;
+}
+.intro p{
+    font-size: 25px;
+    
+}
+.card img{
+    height: 250px !important;
+}
+.card{
+    float: left;
+    margin: 40px;
+}
+.carousel-inner img{
+    height: 400px !important;
+}
+.contact{
+    width: 50% !important;
+    border-radius: 10px;
+    font-size: 20px;
+    color: black;
+}
+.cons1{
+    background: rgb(68, 63, 63);
+    width: 700px;
+    height: 390px;
+    border-radius: 10px;
+    position: relative;
+    top: 40px;
+    margin-left: 290px;
+    text-align: center;
+    color: black;
+}
+.cons{
+    background: grey;
+    background-size: cover;
+    height: 70vh;
+}
